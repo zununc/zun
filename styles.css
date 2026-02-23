@@ -3,23 +3,28 @@
    =========================== */
 
 :root {
-    /* Primary Color Palette */
-    --rust-brown: #942300;
-    --blazing-flame: #FF3B0A;
-    --deep-space-blue: #002642;
-    --mint-cream: #f1fffа;
-    --wisteria-blue: #86a5d9;
-    --sky-surge: #5bc0eb;
-    
-    /* Functional Colors */
-    --primary: var(--blazing-flame);
-    --secondary: var(--deep-space-blue);
-    --accent: var(--sky-surge);
-    --dark: var(--rust-brown);
-    --light: var(--mint-cream);
-    --text-primary: #1a1a1a;
-    --text-secondary: #4a4a4a;
-    --white: #ffffff;
+ /* Primary Brand Colors */
+  --carolina-blue: #4B9CD3;
+  --deep-navy: #0B3D5B;
+  --executive-brown: #3B2A1F;
+
+  /* Supporting Neutrals */
+  --soft-blue-tint: #E6F2FA;
+  --warm-cream: #F5F2EC;
+  --cool-gray: #6B7280;
+
+  /* Functional Roles */
+  --primary: var(--carolina-blue);
+  --secondary: var(--deep-navy);
+  --accent: var(--executive-brown);
+
+  --dark: var(--deep-navy);
+  --light: var(--warm-cream);
+
+  --text-primary: #1A1A1A;
+  --text-secondary: #4A4A4A;
+  --white: #FFFFFF;
+}
     
     /* Typography */
     --font-headline: 'Lora', serif;

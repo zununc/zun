@@ -31,56 +31,64 @@ document.addEventListener('DOMContentLoaded', function() {
             tags: ['Lovable', 'Physics', 'Education', 'grades 6-8']
         },
         {
-            title: 'Teacher Dashboard Platform',
-            category: 'Web Platform',
-            description: 'A comprehensive platform for educators to manage classrooms, create assignments, track student progress, and facilitate online discussions. Integrates with major LMS systems and provides powerful analytics.',
+            title: 'Vice President GPSG',
+            category: 'Elected position',
+            image: 'images/IMG_5078.png',
+            imageAlt: 'GPSG badge',
+            description: 'As Vice President of the UNC Graduate and Professional Student Government, I represent the graduate student body in university-wide governance, serving on key councils and advisory committees that shape academic policy, AI strategy, and student affairs.',
             features: [
-                'Assignment creation and automatic grading',
-                'Real-time student progress analytics',
-                'Integration with Google Classroom and Canvas',
-                'Collaborative lesson planning tools'
+                'Provost AI Committee',
+                'AI Advisory Committee',
+                'Tuition and Fee Advisory Task Force',
+                'Rules & Judiciary Committee'
             ],
-            impact: 'Used by 10,000+ teachers managing 300,000+ students. Reduced grading time by 40% on average. Teachers report 35% increase in student engagement.',
-            tags: ['Web Platform', 'EdTech', 'Teacher Tools', 'Analytics']
+            impact: 'Respresented 11,553 graduate and professional students at UNC Chapel Hill.',
+            tags: ['Elected Position', 'Policy', 'AI', 'Student Government']
         },
         {
-            title: 'Language Learning App',
-            category: 'iOS & Android',
-            description: 'Mobile application for learning new languages through immersive, bite-sized lessons. Uses spaced repetition and AI-powered speech recognition to help users achieve fluency faster.',
+            title: 'PD for Runway Models using XR',
+            category: 'iOS & Meta Quest',
+            image: 'images/IMG_1772.jpeg',
+            imageAlt: 'XR runway training app screenshot',
+            description: 'This program is designed to train professional models using novel technology, industry standard metrics, and accessible training procedures.',
             features: [
-                'AI-powered pronunciation feedback',
-                'Spaced repetition algorithm for optimal retention',
-                'Real conversation practice with native speakers',
+                'AI-powered coach with live feedback',
+                'Designed for iOS and the Meta Quest',
+                'AR overlay for training anywhere',
                 'Progress tracking and personalized recommendations'
             ],
-            impact: '2 million+ downloads worldwide. Users achieve conversational fluency 30% faster than traditional methods. 85% daily active user retention rate.',
-            tags: ['Mobile App', 'AI', 'Language Learning', 'Speech Recognition']
+            impact: 'User tested with industry professionals in modeling, engineering, and Meta.',
+            tags: ['Mobile App', 'AI', 'XR', 'Model']
         },
         {
-            title: 'Assessment Builder Tool',
-            category: 'Educational Tool',
-            description: 'A powerful tool for educators to create custom assessments with various question types, automatic grading, and detailed analytics. Supports formative and summative assessments with built-in accessibility features.',
+            title: 'Internship Review',
+            category: 'BMC poster',
+            image: 'images/IMG_1494.PNG',
+            imageAlt: 'Internship review poster image',
+            description: 'A poster reviewing my work at my internship conducting high-level market research.',
             features: [
-                'Multiple question types (MC, essay, matching, etc.)',
-                'Automatic grading with detailed feedback',
-                'Item analysis and learning analytics',
-                'WCAG compliant for accessibility'
+                'Examples of market research',
+                'Competitive Market Analysis',
+                'Semester in review',
+                'Overall internship goals'
             ],
-            impact: '50,000+ assessments created. Used by 5,000+ educators across higher education and K-12. Saved teachers an average of 5 hours per week on assessment creation and grading.',
-            tags: ['Assessment', 'Web Tool', 'Education', 'Accessibility']
+            impact: 'Developed a comprehensive tool about the embodied learning sector documenting price, installations, technology, and more.',
+            tags: ['Internship', 'Web Tool', 'Education', 'Poster']
         },
         {
-            title: 'Learning Management System',
-            category: 'Enterprise Platform',
-            description: 'Enterprise-grade learning management system designed for corporate training and professional development. Features course authoring, compliance tracking, and advanced reporting capabilities.',
+            title: 'Self driven AI research',
+            category: 'Local LLM experiments',
+            image: 'images/Ollamass1.jpg',
+            imageAlt: 'Ollama image',
+            description: 'Conducting my own experiments using local llms through Ollama and LMstudio',
             features: [
-                'SCORM and xAPI compliant',
-                'Custom course authoring tools',
-                'Automated compliance and certification tracking',
-                'Advanced reporting and analytics dashboard'
+                'Successfully downloaded local models to train on my personal computer',
+                'Test limits of responses offline',
+                'Test model size for computer specs ',
+                'Shared findings with peers'
             ],
-            impact: 'Deployed across 50+ enterprise clients serving 100,000+ employees. 95% course completion rate. 40% reduction in training costs for organizations.',
-            tags: ['LMS', 'Enterprise', 'Corporate Training', 'Compliance']
+            impact: 'Downloaded multiple models to test how well they run on specific Mac computers.',
+            tags: ['AI', 'LLM', 'Research', 'Experiment']
         },
         {
             title: 'STEM Learning Game',

@@ -208,6 +208,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     function updateModalContent(index) {
         const project = projects[index];
+        const modalImage = document.getElementById('modalImage');
+modalImage.src = project.image;
+modalImage.alt = project.imageAlt || project.title;
         
         document.getElementById('modalTitle').textContent = project.title;
         document.getElementById('modalCategory').textContent = project.category;

@@ -16,17 +16,17 @@ document.addEventListener('DOMContentLoaded', function() {
     // Project data (customize this for each project)
     const projects = [
         {
-            title: 'Math Learning App',
-            category: 'Mobile Application',
-            description: 'An interactive math learning application designed for elementary students. Features gamified lessons, real-time progress tracking, and adaptive difficulty levels that adjust to each student\'s pace. Built with React Native and Firebase.',
+            title: 'Looped: Physics Learning App',
+            category: 'Lovable Application',
+            description: 'A highly personalized way of teaching physics, specifically waves, to middle school students using student inputed variables, and AI persona panel, and a digital poster they can download.',
             features: [
-                'Personalized learning paths based on student performance',
-                'Gamification elements including rewards and achievements',
-                'Parent dashboard for monitoring progress',
-                'Offline mode for learning anywhere'
+                'Personalized learning paths based on student inputs',
+                'AI persona panel',
+                'Teacher dashboard to monitor student info',
+                'Downloadable digital poster'
             ],
-            impact: 'Reached 50,000+ students across 15 countries. Average improvement of 23% in math test scores after 3 months of use. 4.7 star rating on app stores.',
-            tags: ['Mobile', 'React Native', 'Education', 'K-12']
+            impact: 'This class project can be found here https://looped584.lovable.app/ with the ability to remix the site to fit your needs.',
+            tags: ['Lovable', 'Physics', 'Education', 'grades 6-8']
         },
         {
             title: 'Teacher Dashboard Platform',

@@ -18,6 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             title: 'Looped: Physics Learning App',
             category: 'Lovable Application',
+            image: 'images/IMG_1496.jpeg',
+            imageAlt: 'Looped physics learning app screenshot',
             description: 'A highly personalized way of teaching physics, specifically waves, to middle school students using student inputed variables, and AI persona panel, and a digital poster they can download.',
             features: [
                 'Personalized learning paths based on student inputs',
